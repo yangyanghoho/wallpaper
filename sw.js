@@ -5,7 +5,7 @@
    · 单个文件缺失不会让整次安装失败
    · 改了代码记得把 VERSION 加一，旧缓存会自动清掉
    ========================================================== */
-const VERSION = 'zaojing-v1';
+const VERSION = 'zaojing-v2';
 const ASSETS = [
   './',
   './index.html',
