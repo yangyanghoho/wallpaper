@@ -1,0 +1,25 @@
+{
+  "name": "造景 · 生成艺术壁纸工坊",
+  "short_name": "造景",
+  "description": "用代码画壁纸：11 种风格、10 套配色，一键导出手机或电脑的真实分辨率壁纸，离线也能用。",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#f4f1ec",
+  "theme_color": "#f4f1ec",
+  "categories": ["graphics", "personalization", "utilities"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "远山 · 宣纸", "url": "./#s=shan&c=xuanzhi&z=ip16p" },
+    { "name": "星夜 · 夜墨", "url": "./#s=xingye&c=yemo&z=ip16p" },
+    { "name": "等高线 · 4K", "url": "./#s=dengaoxian&c=qingci&z=uhd" }
+  ]
+}
